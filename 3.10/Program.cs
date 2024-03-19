@@ -107,7 +107,6 @@ namespace example_3_10_4
         }
     }
 }
-
 namespace example_3_10_5
 {
     class Program
