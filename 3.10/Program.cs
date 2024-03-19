@@ -21,7 +21,6 @@ namespace example_3_10_1
         }
     }
 }
-
 namespace example_3_10_2
 {
     class Program
@@ -45,7 +44,6 @@ namespace example_3_10_2
         }
     }
 }
-
 namespace example_3_10_3 ///не понял математически как прописать задание
 {
     class Program
